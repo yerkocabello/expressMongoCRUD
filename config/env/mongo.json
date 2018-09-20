@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "uri": "mongodb://localhost:27017/test",
+        "options": {
+            "useNewUrlParser": true
+        }
+    },
+    "local": {
+        "uri": "mongodb://localhost:27017/test",
+        "options": {
+            "useNewUrlParser": true
+        }
+    },
+    "pro": {
+        "uri": "mongodb://localhost:27017/test",
+        "options": {
+            "useNewUrlParser": true
+        }
+    }
+}
